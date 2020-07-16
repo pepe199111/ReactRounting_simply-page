@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactRounting_simply-page/static/css/main.fc011130.chunk.css",
+    "main.js": "/ReactRounting_simply-page/static/js/main.4a6a5e81.chunk.js",
+    "main.js.map": "/ReactRounting_simply-page/static/js/main.4a6a5e81.chunk.js.map",
+    "runtime-main.js": "/ReactRounting_simply-page/static/js/runtime-main.77c2445c.js",
+    "runtime-main.js.map": "/ReactRounting_simply-page/static/js/runtime-main.77c2445c.js.map",
+    "static/js/2.62ebb666.chunk.js": "/ReactRounting_simply-page/static/js/2.62ebb666.chunk.js",
+    "static/js/2.62ebb666.chunk.js.map": "/ReactRounting_simply-page/static/js/2.62ebb666.chunk.js.map",
+    "index.html": "/ReactRounting_simply-page/index.html",
+    "precache-manifest.22ba6ac3a1221028bc7840b4e0ce8684.js": "/ReactRounting_simply-page/precache-manifest.22ba6ac3a1221028bc7840b4e0ce8684.js",
+    "service-worker.js": "/ReactRounting_simply-page/service-worker.js",
+    "static/css/main.fc011130.chunk.css.map": "/ReactRounting_simply-page/static/css/main.fc011130.chunk.css.map",
+    "static/js/2.62ebb666.chunk.js.LICENSE.txt": "/ReactRounting_simply-page/static/js/2.62ebb666.chunk.js.LICENSE.txt",
+    "static/media/header1.jpg": "/ReactRounting_simply-page/static/media/header1.cab7beae.jpg",
+    "static/media/header2.jpg": "/ReactRounting_simply-page/static/media/header2.bd639f70.jpg",
+    "static/media/header3.jpg": "/ReactRounting_simply-page/static/media/header3.1cbc0164.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77c2445c.js",
+    "static/js/2.62ebb666.chunk.js",
+    "static/css/main.fc011130.chunk.css",
+    "static/js/main.4a6a5e81.chunk.js"
+  ]
+}
